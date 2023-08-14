@@ -1,0 +1,50 @@
+/* Css for Button  */
+.buttonStyle{
+    background-color: blue;
+    padding: 15px;
+    font-size: x-large;
+    border-radius: 10px;
+    color: lightgoldenrodyellow;
+}
+
+.tooltip-container {
+  position: relative;
+  display: inline-block;
+}
+
+.tooltip {
+    position: absolute;
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: medium;
+    opacity: 0.9;
+    pointer-events: none;
+    z-index: 1;
+    text-align: center;
+}
+
+.top-position{
+    margin-bottom: 5px;
+    bottom: 100%;
+    left: 35%;
+    transform: translateX(-27%);
+}
+
+.bottom-position{
+    margin-top: 5px;
+    top: 100%;
+    left: 35%;
+    transform: translateX(-27%);
+}
+
+.left-position{
+     top: 8%;
+    transform: translateX(-104%);
+}
+
+.right-position{
+    top: 8%;
+    transform: translateX(103%);
+}

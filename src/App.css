@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+/* cover of button  */
+.cover{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+/* Select cover  */
+.selectCover{
+    background-color: antiquewhite;
+    width: max-content;
+    padding: 5px 20px;
+    margin: auto;
+    margin-top: 42px;
+}
+
