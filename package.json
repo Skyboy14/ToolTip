@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Skyboy14.github.io/tooltip",
   "name": "tooltip",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
